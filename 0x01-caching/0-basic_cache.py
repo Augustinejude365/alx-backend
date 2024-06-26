@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-''' Basic Dictionary: Creating a class BasicCache that inherits from BaseCaching
-    and is a caching system
+''' Basic Dictionary: Creating a class BasicCache that inherits from
+    BaseCaching and is a caching system
 '''
 
 BaseCaching = __import__('base_caching').BaseCaching
