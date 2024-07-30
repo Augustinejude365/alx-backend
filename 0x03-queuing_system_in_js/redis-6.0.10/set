@@ -1,0 +1,3 @@
+cd src && make 127.0.0.1:[Port]
+make[1]: Entering directory '/root/alx-backend/0x03-queuing_system_in_js/redis-6.0.10/src'
+make[1]: Leaving directory '/root/alx-backend/0x03-queuing_system_in_js/redis-6.0.10/src'
